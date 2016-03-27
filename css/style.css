@@ -13,12 +13,19 @@ body {
     padding: 0;
     height: 100%;
 	/* gradients - second red border, first red border, top white space, blue lines */
-   background-color: #fff; 
-background-image: 
-linear-gradient( transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
-linear-gradient(#eee .1em, transparent .1em);
+   background: #fff; 
+background: linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),linear-gradient(#eee .1em, transparent .1em);
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+
+
+
 background-size: 100% 3em;
+
 }
+.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
 
 .fl
 {float:left;}
@@ -105,10 +112,19 @@ margin:0 auto;}
 
 	
 	
-	.about
-	{width:90%;
+	.about, .studentZone
+	{width:75%;
 	margin:0 auto;}
 	
+	
+.hdgSize
+{padding-top:19px;}
+
+.pd
+{padding-top:58px;}
+
+.pd1
+{padding-top:30px;}
 
 
 .paper {
@@ -154,7 +170,7 @@ font-family:script;
 
 .last figure{padding-top:20px;margin:0 auto;}
 
-.last p{ font-size:25px;padding-top:30px;}
+.last p{ font-size:30px;padding-top:18px;}
 
 .top
 {width:50px;
@@ -165,7 +181,22 @@ position:fixed;
 text-align:center;
 padding:15px 0 0 0;}
 
+.fig
 
+{border:5px solid #000;
+outline:2px solid #000;
+outline-offset:2px;
+background:none!important;
+color:black!important;}
+
+.caption
+{text-align:center;
+font-family:script!important;
+}
+
+.thumbnail
+{background:none!important;
+border:none!important;}
 
 
 
