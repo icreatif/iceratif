@@ -1,0 +1,183 @@
+@media all and (max-width: 1395px) { 
+.logo
+{left:380px;
+top:150px;}
+
+.addCir
+{left:-142px;}
+
+
+ }
+
+ @media all and (max-width: 1295px) { .logo
+{left:350px;
+top:150px;} 
+
+.addCir
+{left:510px;}
+}
+
+@media all and (max-width: 1195px) { 
+ .logo
+{left:300px;
+top:150px;}
+.addCir
+{left:467px;}
+}
+
+@media all and (max-width: 1009px) { 
+.logo
+{left:200px;
+top:150px;}
+
+.addCir
+{left:440px;}
+
+}
+@media all and (max-width: 991px)
+
+{ 
+	.addCir
+{left:-280px;}
+
+.wi
+{width:39%;}
+.wiwi
+{width:39%;
+margin:3px 0 0 3.5px;}
+.mgLeft
+{margin-left:25%;}
+.padLeft
+{padding-left:20%;}
+
+
+ }
+
+@media all and (max-width: 846px) {
+.logo
+{left:100px;
+top:150px;}
+
+.addCir
+{left:-180px;}
+
+.wi
+{width:39%;}
+.wiwi
+{width:39%;
+margin:3px 0 0 3.5px;}
+.mgLeft
+{margin-left:25%;}
+.padLeft
+{padding-left:20%;}
+
+ }
+
+
+ @media all and (max-width: 669px) { 
+
+.logo
+{left:20px;
+top:150px;}
+.addCir
+{left:-133px;}
+
+.wi
+{width:39%;}
+.wiwi
+{width:39%;
+margin:3px 0 0 3.5px;}
+.mgLeft
+{margin-left:25%;}
+.padLeft
+{padding-left:20%;}
+}
+
+
+@media all and (max-width: 549px){
+
+.addCir
+{left:-70px;}
+
+.wi
+{width:39%;}
+.wiwi
+{width:39%;
+margin:3px 0 0 3.5px;}
+.mgLeft
+{margin-left:25%;}
+.padLeft
+{padding-left:20%;}
+}
+
+
+
+
+
+@media all and (max-width: 446px) { 
+.logo
+{left:0px;
+top:150px;}
+
+.addCir
+{left:-19px;}
+.wi
+{width:39%;}
+.wiwi
+{width:39%;
+margin:3px 0 0 3.5px;}
+.mgLeft
+{margin-left:25%;}
+.padLeft
+{padding-left:20%;}
+}
+
+
+ @media all and (max-width: 420px){
+ 	.wi
+{width:39%;}
+.wiwi
+{width:39%;
+margin:3px 0 0 3.5px;}
+.mgLeft
+{margin-left:25%;}
+.padLeft
+{padding-left:20%;}
+ }
+ 
+ @media all and (max-width: 400px)
+ {
+ 	.wi
+{width:40%;
+}
+.wiwi
+{width:38%;
+margin-left:5px;
+margin-top:5px;}
+.mgLeft
+{margin-left:25%;}
+
+.padLeft
+{padding-left:20%;}
+ } 
+
+ 
+ @media all and (max-width: 326px) 
+ { 
+.addCir
+{left:0px;}
+
+.wi
+{width:40%;
+}
+.wiwi
+{width:38%;
+margin-left:5px;
+margin-top:5px;}
+
+.mgLeft
+{margin-left:25%;}
+
+.padLeft
+{padding-left:20%;}
+}

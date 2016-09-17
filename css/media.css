@@ -1,0 +1,274 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+.logo
+{top:150px;
+	left:0px;
+}
+
+.graphicIco
+{height:100px;}
+
+.gdHeading
+{font-size:62px;}
+
+
+.logogd
+{width:100%;
+	height:37px;
+    margin: 5px 0 0 9px;
+/*background-image: url(../images/logogd.png);*/
+background-repeat: no-repeat;
+position: absolute;
+}
+.wi
+{width:68%!important;
+max-width: 100%;
+height:auto;}
+.wiwi
+{width:68%!important;
+max-width: 100%;
+height:auto;}
+
+.addCir
+{width:55%;
+left:-66px;}
+
+.ho .wi
+{margin:0 auto;}
+
+.ho .wiwi
+{margin:0 20px;}
+
+}
+/* Smartphones (landscape) ----------- */
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+.logo
+{top:150px;
+left:0px;}
+.graphicIco
+{height:100px;}
+.logogd {
+   margin: 0px 0 0 10px;
+padding-top: 6px
+}
+
+.gdHeading
+{font-size:62px;}
+
+
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+.logo
+{top:100px;
+left:300px;}
+.graphicIco
+{height:250px;}
+.gdHeading
+{font-size: 80px;}
+
+.logogd
+{width:100%;
+	height:37px;
+    margin: 13px 0 0 22px;
+/*background-image: url(../images/logogd.png);*/
+background-repeat: no-repeat;
+position: absolute;
+}
+.wi
+{width:27%!important;
+max-width:100%;
+height:auto;}
+.sketch
+{margin-left:46px;}
+
+.logogd{
+margin: 0px 0 0 24px;
+padding-top: 12px;
+
+}
+
+.ho .wi
+{margin:0 auto;}
+
+.ho .wiwi
+{margin:0 112px;}
+
+.addCir
+{width:55%;
+left:-155px;}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+/* Styles */
+.logo
+{top:100px;
+left:200px;}
+.graphicIco
+{height:250px;}
+.gdHeading
+{font-size: 80px;}
+
+.wi
+{width:27%!important;
+max-width:100%;
+height:auto;}
+
+
+}
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+/* Styles */
+.logo
+{top:100px;
+left:150px;}
+.graphicIco
+{height:250px;}
+.gdHeading
+{font-size: 80px;}
+
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+.logo
+{top:100px;
+left:150px;}
+.graphicIco
+{height:250px;}
+.gdHeading
+{font-size: px;}
+.wi
+{width:27%!important;
+max-width:100%;
+height:auto;}
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+.logo
+{top:100px;
+left:300px;}
+.graphicIco
+{height:250px;}
+.draw
+{margin-left:-40px;}
+.gdHeading
+{font-size: 80px;}
+.wi
+{width:27%!important;
+max-width:100%;
+height:auto;}
+.addCir
+{width:55%;
+left:-155px;}
+}
+
+/* Desktops and laptops ----------- */
+@media screen and (min-width: 800px) and (max-width: 1280px) {
+/* Styles */
+.logo
+{top:150px;
+left:400px;}
+.logogd
+{margin-left:10px;}
+
+.graphicIco
+{height:400px;}
+.gdHeading
+{font-size: 100px;}
+
+.addCir
+{width:55%;
+left:500px;}
+.logo
+{left:400px;top:150px;}
+
+
+
+
+}
+@media only screen and (min-width : 1280px) and (max-width : 1400px) {
+/* Styles */
+.addCir
+{width:55%;
+left:500px;}
+.logo
+{left:400px;top:150px;}
+
+
+}
+
+@media all and (max-width: 1382px) { 
+.logo
+{left:400px;top:150px;}
+}
+@media only screen  and (max-width : 1920px) {
+/* Styles */
+.logo
+{top:150px;
+left:688px;}
+
+.addCir
+{left:-300px;}
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+.logo
+{top:150px;
+left:688px;}
+
+.graphicIco
+{height:400px;}
+
+.gdHeading
+{font-size: 100px;}
+
+}
+
+@media only screen  and (max-width : 1920px) {
+/* Styles */
+
+
+.graphicIco
+{height:400px;}
+
+.gdHeading
+{font-size: 100px;}
+
+.logogd
+{padding:0 0 0 20px;}
+}
+
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+.logo
+{top:150px;
+left:0;}
+
+.graphicIco
+{height:100px;}
+
+.gdHeading
+{font-size:62px;}
+
+
+.logogd
+{width:100%;
+	height:37px;
+    margin: 8px 0 0 4px;
+/*background-image: url(../images/logogd.png);*/
+background-repeat: no-repeat;
+position: absolute;
+}
+}

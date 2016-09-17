@@ -1,0 +1,147 @@
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" style="enable-background:new 0 0 595.28 841.89;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#EE1C57;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#F1F0F0;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#9F79B6;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1575BC;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#F05523;stroke-width:5;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#2B9D49;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:19.2473;}
+	.st9{fill:none;}
+	.st10{font-size:12;}
+	.st11{fill:url(#SVGID_1_);}
+	.st12{fill:url(#SVGID_2_);}
+	.st13{fill:url(#SVGID_3_);}
+	.st14{fill:url(#SVGID_4_);}
+	.st15{fill:url(#SVGID_5_);}
+	<defs>
+  <style type="text/css">
+   <![CDATA[
+    @font-face {
+        font-family: cool;
+        src: url(../fonts/coolvetica-rg.ttf);
+    }
+   ]]>
+   <style>
+		.st0, .st2, .st3, .st4, .st5
+		{stroke-dasharray:2000;
+		stroke-dashoffset:0;
+		animation: dash 5s linear forwards infinite;
+		-webkit-animation: dash 5s linear forwards infinite;
+		-moz-animation: dash 5s linear forwards infinite;
+		-o-animation: dash 5s linear forwards infinite;
+		-ms-animation: dash 5s linear forwards infinite;}
+
+		@-webkit-keyframes dash
+
+		{
+		from{stroke-dashoffset:2000;}
+		to{stroke-dasofset:0;}
+		}
+		@-moz-keyframes dash
+
+		{
+		from{stroke-dashoffset:2000;}
+		to{stroke-dasofset:0;}
+		}
+		@keyframes dash
+
+		{
+		from{stroke-dashoffset:2000;}
+		to{stroke-dasofset:0;}
+		}
+	</style>
+ </style>
+</defs>
+</style>
+<g>
+	<polyline class="st0" points="298.243,477.82 519.493,477.82 580.329,537.361 519.812,595.608 298.325,595.608 	"/>
+</g>
+<circle class="st1" cx="500.975" cy="535.011" r="31.229"/>
+<g>
+	<g>
+		<polyline class="st2" points="351.463,124.417 73.439,124.417 17.097,183.959 73.144,242.205 298.083,242.205 		"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st3" points="297.791,242.205 519.784,242.205 580.619,301.746 520.103,359.993 298.128,359.993 		"/>
+	</g>
+</g>
+<circle class="st1" cx="500.526" cy="297.693" r="31.229"/>
+<g>
+	<polyline class="st4" points="298.389,359.993 74.106,359.993 17.764,419.535 73.811,477.781 299.1,477.781 	"/>
+</g>
+<circle class="st1" cx="98.926" cy="417.433" r="31.229"/>
+<g>
+	<polyline class="st5" points="298.409,595.612 74.127,595.612 17.785,655.154 73.831,713.4 297.121,713.4 	"/>
+</g>
+<circle class="st1" cx="98.232" cy="653.179" r="31.229"/>
+<text transform="matrix(1 0 0 1 143.4457 175.4656)" class="st6 st7 st8" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:25px;">Sketching</text>
+<rect x="144.588" y="195.172" class="st9" width="254.367" height="19.625"/>
+<text transform="matrix(1 0 0 1 145.5873 203.5535)" class="st6 st7 st10" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:18px;">Drawing Skills</text>
+<text transform="matrix(1 0 0 1 215.5198 292.9688)" class="st6 st7 st8" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:25px;">Concepts of Graphics</text>
+<rect x="205.576" y="309.672" class="st9" width="254.367" height="19.625"/>
+<text transform="matrix(1 0 0 1 170.9171 317.0535)" class="st6 st7 st10" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:18px;">Typography and Principles of Design</text>
+<text transform="matrix(1 0 0 1 143.1538 411.4688)" class="st6 st7 st8" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:25px;">Vector Graphics for Print</text>
+<rect x="137.576" y="428.173" class="st9" width="196.336" height="19.625"/>
+<text transform="matrix(1 0 0 1 145.576 436.5543)" class="st6 st7 st10" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:18px;">Corel Draw X7 and Adobe Indesign CC</text>
+<text transform="matrix(1 0 0 1 104.2819 529.6989)" class="st6 st7 st8" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:25px;">Vector Graphic for Digitalization</text>
+<rect x="361.813" y="544.923" class="st9" width="188.033" height="19.625"/>
+<text transform="matrix(1 0 0 1 277.813 553.3036)" class="st6 st7 st10" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:18px;">Adobe Illustrator CC</text>
+<text transform="matrix(1 0 0 1 144.5936 647.5854)" class="st6 st7 st8" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:25px;">Raster Graphic</text>
+<rect x="137.624" y="662.81" class="st9" width="204.7" height="19.625"/>
+<text transform="matrix(1 0 0 1 145.6246 671.1903)" class="st6 st7 st10" style="font-family: 'cool'; font-weight:normal; font-style: normal; font-size:18px;">Photography and Adobe Photoshop CC</text>
+<circle class="st1" cx="102.967" cy="184.524" r="31.229"/>
+<radialGradient id="SVGID_1_" cx="102.987" cy="656.4611" r="18.297" gradientTransform="matrix(1 0 0 -1 -0.02 840.985)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1043" style="stop-color:#9F79B6"/>
+	<stop  offset="0.2684" style="stop-color:#9D76B4"/>
+	<stop  offset="0.4404" style="stop-color:#966DAF"/>
+	<stop  offset="0.6161" style="stop-color:#8B5FA6"/>
+	<stop  offset="0.7942" style="stop-color:#7D4A9B"/>
+	<stop  offset="0.9727" style="stop-color:#6C2D8F"/>
+	<stop  offset="0.9839" style="stop-color:#6B2C8E"/>
+</radialGradient>
+<circle class="st11" cx="102.967" cy="184.524" r="18.297"/>
+<radialGradient id="SVGID_2_" cx="500.546" cy="543.2921" r="18.297" gradientTransform="matrix(1 0 0 -1 -0.02 840.985)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1097" style="stop-color:#00BEE8"/>
+	<stop  offset="0.2292" style="stop-color:#00B8E3"/>
+	<stop  offset="0.4223" style="stop-color:#00AADB"/>
+	<stop  offset="0.6649" style="stop-color:#0093CE"/>
+	<stop  offset="0.9451" style="stop-color:#1376BD"/>
+	<stop  offset="0.963" style="stop-color:#1575BC"/>
+</radialGradient>
+<circle class="st12" cx="500.526" cy="297.693" r="18.297"/>
+<radialGradient id="SVGID_3_" cx="98.9457" cy="423.552" r="18.297" gradientTransform="matrix(1 0 0 -1 -0.02 840.985)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0989" style="stop-color:#FAA31A"/>
+	<stop  offset="0.2443" style="stop-color:#F99F1C"/>
+	<stop  offset="0.4501" style="stop-color:#F7911E"/>
+	<stop  offset="0.6918" style="stop-color:#F47C20"/>
+	<stop  offset="0.959" style="stop-color:#F15B22"/>
+	<stop  offset="1" style="stop-color:#F05523"/>
+</radialGradient>
+<circle class="st13" cx="98.926" cy="417.433" r="18.297"/>
+<radialGradient id="SVGID_4_" cx="500.995" cy="305.974" r="18.297" gradientTransform="matrix(1 0 0 -1 -0.02 840.985)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0989" style="stop-color:#EE3787"/>
+	<stop  offset="0.2633" style="stop-color:#EE3686"/>
+	<stop  offset="0.4356" style="stop-color:#EE3380"/>
+	<stop  offset="0.6116" style="stop-color:#EE2F77"/>
+	<stop  offset="0.79" style="stop-color:#EE286A"/>
+	<stop  offset="0.9688" style="stop-color:#EE1E5A"/>
+	<stop  offset="0.9946" style="stop-color:#EE1C57"/>
+</radialGradient>
+<circle class="st14" cx="500.975" cy="535.011" r="18.297"/>
+<radialGradient id="SVGID_5_" cx="98.2525" cy="187.8064" r="18.297" gradientTransform="matrix(1 0 0 -1 -0.02 840.985)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.0989" style="stop-color:#87C540"/>
+	<stop  offset="0.28" style="stop-color:#81C041"/>
+	<stop  offset="0.5363" style="stop-color:#6EB544"/>
+	<stop  offset="0.8359" style="stop-color:#4BA647"/>
+	<stop  offset="1" style="stop-color:#2B9D49"/>
+</radialGradient>
+<circle class="st15" cx="98.232" cy="653.179" r="18.297"/>
+</svg>
