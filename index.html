@@ -435,17 +435,17 @@ transforms into a Digital Artist. And when a Digital Artist does his/her magic a
      
       </article>
     <div class="formArea">
-		<form id="#" >
-			<input type="text" placeholder="First Name" class="fn">
+		<form id="contact-form" target="_self" onsubmit="" action="javascript: postContactToGoogle()" >
+			<input name="first-name" id="first-name" type="text" placeholder="First Name" class="fn">
 
-			<input type="text" placeholder="Last Name" class="fn">
+			<input name="last-name" id="last-name" type="text" placeholder="Last Name" class="fn">
 
-			<input type="text" placeholder="Contact Number" class="fn">
+			<input name="contact-number" id="contact-number" type="text" placeholder="Contact Number" class="fn">
 
-			<input type="text" placeholder="E-Mail" class="fn">
+			<input name="email" id="email" type="text" placeholder="E-Mail" class="fn">
 
-			  <select name="courses" class="option">
-	<option value="enquire">Enquire For</option>
+			  <select name="courses" id="courses" class="option">
+	<option value="">Enquire For</option>
     <option value="web">Web Designing Course</option>
     <option value="graphic">Graphic Designing Course</option>
     <option value="photography">Photography Course</option>
@@ -453,9 +453,9 @@ transforms into a Digital Artist. And when a Digital Artist does his/her magic a
     <option value="others">Others</option>
   </select>
 
-  <textarea class="ta" placeholder="Message"></textarea>
+  <textarea name="contact-message" id="contact-message" class="ta" placeholder="Message"></textarea>
 
-  <button class="mgr"><a href="#" class="glyphicon glyphicon-send"><span class="pd">Send</span></a></button>
+  <button class="mgr" id="send" type="submit"><a href="#" class="glyphicon glyphicon-send"><span class="pd">Send</span></a></button>
   <button class="mgl"><a href="#" class="glyphicon glyphicon-remove"><span class="pd">Cancel</span></a></button>
 		</form>
 
@@ -546,6 +546,7 @@ function closeNav() {
 
 <!-- Google Maps -->
        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY2xAk-5w-Ctt-9kxyNzp4NPwYq4krdjc&callback=initMap" async defer></script>
-
+<!-- Contact Form -->
+      <script src="js/contact-form.js" type="text/javascript"></script>
 </body>
 </html>
